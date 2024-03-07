@@ -1,0 +1,5 @@
+![Screenshot 2024-03-07 113811](https://github.com/adarshlkdev/Bank-Management-System/assets/129508819/73a5a7ca-8e90-47d4-bbde-1d2eaf79b68c)
+![Screenshot 2024-03-07 113845](https://github.com/adarshlkdev/Bank-Management-System/assets/129508819/88bd8629-d519-40d9-9255-70704fe60301)
+![Screenshot 2024-03-07 114206](https://github.com/adarshlkdev/Bank-Management-System/assets/129508819/685dce06-b8d8-42ec-bcce-1a621e3f409d)
+![Screenshot 2024-03-07 114249](https://github.com/adarshlkdev/Bank-Management-System/assets/129508819/9763060a-b450-4344-8420-cf8fc9abf333)
+![Screenshot 2024-03-07 114421](https://github.com/adarshlkdev/Bank-Management-System/assets/129508819/083a7971-f482-4c36-9c67-61897c89637f)
